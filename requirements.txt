@@ -1,0 +1,5 @@
+# 桌面预览/开发依赖（手机打包由 buildozer.spec 管理，无需本文件）
+kivy>=2.3.0
+requests>=2.32.4
+cryptography>=42.0.0
+Pillow>=10.0.0
